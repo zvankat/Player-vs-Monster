@@ -1,0 +1,7 @@
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\bin\Debug\PlayerVSMonster.exe
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\bin\Debug\PlayerVSMonster.pdb
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\obj\Debug\PlayerVSMonster.csproj.AssemblyReference.cache
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\obj\Debug\PlayerVSMonster.csproj.SuggestedBindingRedirects.cache
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\obj\Debug\PlayerVSMonster.csproj.CoreCompileInputs.cache
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\obj\Debug\PlayerVSMonster.exe
+C:\Users\zxcvankat\RiderProjects\PlayerVSMonster\PlayerVSMonster\obj\Debug\PlayerVSMonster.pdb
